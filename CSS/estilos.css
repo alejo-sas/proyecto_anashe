@@ -1,0 +1,75 @@
+.navbar {
+    background: #71DFE7;
+}
+
+.btn {
+    background: #C2FFF9;
+}
+
+.body {
+    padding: 0;
+    margin: 0;
+    background: #71DFE7;
+}
+
+.fondo-catalogo {
+    background: #C2FFF9;
+    overflow: hidden;
+}
+
+.card-body {
+    background: #71DFE7;
+}
+
+.producto {
+    padding: 20px;
+    text-align: center;
+}
+
+.producto_img {
+    width: 100%;
+    height: 100%;
+    height: 400px;
+    object-fit: cover;
+}
+
+.producto_titulo {
+    text-align: center;
+}
+
+.producto_precio {
+    color: orangered;
+    font-weight: bold;
+}
+
+.fa-shopping-cart {
+    display: block;
+    margin-top: 10px;
+}
+
+.fa-shopping-cart:hover {
+    color: orangered;
+    cursor: pointer;
+}
+
+footer {
+    background: #71DFE7;
+}
+
+.whatsapp {
+    position: fixed;
+    width: 60px;
+    height: 60px;
+    bottom: 40px;
+    right: 40px;
+    background-color: #25d366;
+    color: #FFF;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 30px;
+    z-index: 100;
+}
+
+.whatsapp-icon {
+    margin-top: 13px;
+}
